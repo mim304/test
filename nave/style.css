@@ -3,9 +3,9 @@
    padding: 0;
    box-sizing: border-box;
 }
-body{
+/* body{
    margin-bottom: 50px;
-}
+} */
 /* mamber */
 .mamber{
    box-shadow: 0 2px 10px 0 gray;
@@ -26,13 +26,3 @@ body{
    display: block;
 }
 /* date end */
-footer{
-   position: fixed;
-   bottom: 0;
-   left: 0;
-   width: 100%;
-   margin-top: 10px;
-   margin-bottom: 0;
-}
-
-
